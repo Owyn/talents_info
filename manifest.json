@@ -2,7 +2,7 @@
 	"files": {
 		"README.md": "0566b1e777b943e6ff6647288e19e7de001199af1280a584189518efc2368c14",
 		"index.js": "b8317b9b348c34200f5f03805d7f698ef2adb40c56b5e073c629247af6c41cb0",
-		"module.json": "a74cd7cb7bb4f57ba267726fdb9c51f097aaf97ce0b2b217cbc1a92e89b5350c"
+		"module.json": "aca95c41c50e1aea15344fe6a5df9241adef81f3e6d889cdb10c3a8e5aa845c3"
 	},
 	"defs": {
 		"C_REQUEST_CONTRACT": 1,
