@@ -3,7 +3,7 @@
 	"name": "Talents-Info",
 	"author": "Owyn",
 	"description": "Shows EP EXP gains and your daily cap (89% of it)",
-	"options": { "niceName": "<font color='#FDD017'>Talents</font>" },
+	"options": { "niceName": "<font color='#FDD017'>Talents</font>", "guiName": "Talents Info" },
 	"servers": ["https://raw.githubusercontent.com/Owyn/talents_info/master/"],
 	"supportUrl": "https://github.com/Owyn/talents_info/issues"
 }
