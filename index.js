@@ -58,7 +58,7 @@ module.exports = function talentsinfo(mod) {
 	
 	// open EP ui
     mod.hook('C_REQUEST_CONTRACT', 1, event => {
-        if (event.type == 77)
+        if (event.type == (mod.majorPatchVersion >= 85 ? 78 : 77))
 		{
             msg();
         }
